@@ -1,0 +1,149 @@
+{
+  "Data Scientist": [
+    "python","machine learning","deep learning","statistics","pandas","numpy","scikit-learn"
+  ],
+
+  "Data Analyst": [
+    "python","sql","excel","tableau","power bi","data visualization"
+  ],
+
+  "Machine Learning Engineer": [
+    "python","tensorflow","pytorch","machine learning","deep learning","docker"
+  ],
+
+  "AI Engineer": [
+    "python","machine learning","deep learning","transformers","huggingface","nlp"
+  ],
+
+  "Software Engineer": [
+    "java","python","c++","data structures","algorithms","git"
+  ],
+
+  "Frontend Developer": [
+    "html","css","javascript","react","angular","vue"
+  ],
+
+  "Backend Developer": [
+    "node.js","express","django","flask","fastapi","sql"
+  ],
+
+  "Full Stack Developer": [
+    "html","css","javascript","react","node.js","mongodb","sql"
+  ],
+
+  "DevOps Engineer": [
+    "docker","kubernetes","jenkins","ci/cd","terraform","aws"
+  ],
+
+  "Cloud Engineer": [
+    "aws","azure","gcp","docker","kubernetes"
+  ],
+
+  "Data Engineer": [
+    "python","spark","hadoop","etl","data pipeline","sql"
+  ],
+
+  "Business Intelligence Analyst": [
+    "sql","power bi","tableau","data visualization","excel"
+  ],
+
+  "Cybersecurity Analyst": [
+    "network security","penetration testing","cryptography","ethical hacking"
+  ],
+
+  "Security Engineer": [
+    "network security","cryptography","firewalls","security monitoring"
+  ],
+
+  "Mobile App Developer": [
+    "android","ios","flutter","react native","kotlin","swift"
+  ],
+
+  "Android Developer": [
+    "android","kotlin","java","android studio"
+  ],
+
+  "iOS Developer": [
+    "ios","swift","objective-c","xcode"
+  ],
+
+  "Game Developer": [
+    "unity","unreal engine","c#","c++","game physics"
+  ],
+
+  "Blockchain Developer": [
+    "blockchain","solidity","web3","ethereum","smart contracts"
+  ],
+
+  "AR/VR Developer": [
+    "unity","unreal engine","vr","ar","3d modeling"
+  ],
+
+  "Database Administrator": [
+    "sql","mysql","postgresql","oracle","database tuning"
+  ],
+
+  "System Administrator": [
+    "linux","shell scripting","network administration","server management"
+  ],
+
+  "Network Engineer": [
+    "network security","tcp/ip","routing","switching"
+  ],
+
+  "Embedded Systems Engineer": [
+    "c","c++","microcontrollers","embedded systems","firmware"
+  ],
+
+  "Robotics Engineer": [
+    "robotics","ros","python","control systems"
+  ],
+
+  "Computer Vision Engineer": [
+    "computer vision","opencv","deep learning","python"
+  ],
+
+  "NLP Engineer": [
+    "nlp","transformers","huggingface","python"
+  ],
+
+  "Quantitative Analyst": [
+    "python","statistics","financial modeling","time series"
+  ],
+
+  "Product Manager": [
+    "product management","agile","scrum","roadmapping"
+  ],
+
+  "Technical Support Engineer": [
+    "troubleshooting","technical support","customer support"
+  ],
+
+  "QA Engineer": [
+    "testing","automation testing","selenium","test cases"
+  ],
+
+  "Automation Engineer": [
+    "selenium","automation testing","python","testing frameworks"
+  ],
+
+  "UI/UX Designer": [
+    "figma","adobe xd","ui design","ux research","prototyping"
+  ],
+
+  "Graphic Designer": [
+    "photoshop","illustrator","design","branding"
+  ],
+
+  "Digital Marketing Specialist": [
+    "seo","google analytics","content marketing","social media marketing"
+  ],
+
+  "SEO Specialist": [
+    "seo","keyword research","google analytics"
+  ],
+
+  "IT Support Specialist": [
+    "technical support","troubleshooting","networking"
+  ]
+}
