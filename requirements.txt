@@ -9,3 +9,4 @@ groq
 PyPDF2
 python-docx
 pdfplumber
+reportlab
