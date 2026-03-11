@@ -1,6 +1,10 @@
 streamlit
-pdfplumber
-python-docx
-wordcloud
+sentence-transformers
+scikit-learn
+pandas
+numpy
 matplotlib
+wordcloud
 groq
+PyPDF2
+python-docx
