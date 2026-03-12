@@ -45,10 +45,7 @@ st.set_page_config(page_title="AI Resume Analyzer", page_icon="📄", layout="wi
 st.markdown("""
 <style>
 
-[data-testid="stAppViewContainer"]{
-background-color:#0e1117;
-color:white;
-}
+
 
 .block-container{
 padding-top:2rem;
@@ -516,3 +513,4 @@ if table_data:
     df.index = df.index + 1
 
     st.dataframe(df, use_container_width=True)
+
