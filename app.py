@@ -36,7 +36,7 @@ with open("job_roles.json", "r") as file:
     job_roles = json.load(file)
 
 # ---------------- GROQ CLIENT ----------------
-client = Groq(api_key="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")
+client = Groq(api_key="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")
 
 # ---------------- PAGE SETTINGS ----------------
 st.set_page_config(page_title="AI Resume Analyzer", page_icon="📄", layout="wide")
